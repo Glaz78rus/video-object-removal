@@ -4,6 +4,8 @@ import os
 import numpy as np
 import subprocess as sp
 
+file:///home/gitos/Рабочий%20стол/СКЛАД%202023.mp4
+   
 def createVideoClip(clip, folder, name, size=[256, 256]):
 
     vf = clip.shape[0]
